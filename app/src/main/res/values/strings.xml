@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fetch</string>
+    <string name="title_fetch_exercise">Fetch Exercise</string>
+    <string name="button_get_list">Get List</string>
+    <string name="header_item">List: %d</string>
+</resources>
